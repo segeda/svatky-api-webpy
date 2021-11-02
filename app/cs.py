@@ -21,6 +21,7 @@ datum = {
 	u'0208':(u'Gustav',),
 	u'0209':(u'Adéla',),
 	u'0210':(u'Olívie', u'Oliver',),
+	u'0211':(u'Tobiáš',),
 	u'0212':(u'Blanka',),
 	u'0301':(u'Radmila',),
 	u'0302':(u'Blažej',),

@@ -685,6 +685,7 @@ jmeno = {
 	u'Tereza':(u'1510',),
 	u'Tibor':(u'1311',),
 	u'Tomáš':(u'0703',),
+	u'Tobiáš':(u'0211',),
 	u'Václav':(u'2809',),
 	u'Valdemar':(u'2705',),
 	u'Valentýn':(u'1402',),
